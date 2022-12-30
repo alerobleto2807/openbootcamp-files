@@ -1,0 +1,19 @@
+
+.img-principal{
+    width: 458px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.galeria{
+ width: 150px;
+}
+
+.galeria:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
